@@ -6,8 +6,47 @@ EditorBuildSettings:
   serializedVersion: 2
   m_Scenes:
   - enabled: 1
-    path: Assets/Scenes/SampleScene.unity
-    guid: 8c9cfa26abfee488c85f1582747f6a02
+    path: Assets/Battle/Scenes/Main_Menu.unity
+    guid: 0187508589c429b489fc17f1d8d7e233
+  - enabled: 1
+    path: Assets/Battle/Scenes/Post.unity
+    guid: 83d4aba46ab501b4293143730a7bda35
+  - enabled: 1
+    path: Assets/Battle/Scenes/Misi_1_Prolog.unity
+    guid: 1e2aa6601a1181042a453177cb245769
+  - enabled: 1
+    path: Assets/Battle/Scenes/Battle_1.unity
+    guid: a17303ba483044941b698e735489f9b6
+  - enabled: 1
+    path: Assets/Battle/Scenes/Misi_2_BurningVillage.unity
+    guid: dfb6fe7eaaf963048985164ba28b2dcc
+  - enabled: 1
+    path: Assets/Battle/Scenes/Battle_2.unity
+    guid: 7461d86c52205df49a8356fcfbbe3085
+  - enabled: 1
+    path: Assets/Battle/Scenes/Misi_3_Tambang_goblin.unity
+    guid: 571e0b1a9262b0f459ec39a905d60db6
+  - enabled: 1
+    path: Assets/Battle/Scenes/Battle_3.unity
+    guid: ac02e69b5fd3bbb46adf452cc4673640
+  - enabled: 1
+    path: Assets/Battle/Scenes/misi_4_Hutan.unity
+    guid: 63f13a51b4aaf7c488384bba5bd5fc37
+  - enabled: 1
+    path: Assets/Battle/Scenes/Battle_4.unity
+    guid: b281710788c4949499a3ac801f421668
+  - enabled: 1
+    path: Assets/Battle/Scenes/Misi_5_ Pulau.unity
+    guid: a69dfcbded20a4545bc461fb9de8d3e3
+  - enabled: 1
+    path: Assets/Battle/Scenes/Battle_5.unity
+    guid: a13a5bc78c6d4274f90672bc520b8511
+  - enabled: 1
+    path: Assets/Battle/Scenes/Misi_6_Tower_Pemanah.unity
+    guid: 0784351645972564da0c1aa0937d150e
+  - enabled: 1
+    path: Assets/Battle/Scenes/Credits.unity
+    guid: 0a573b96a52e3ce448ba8048869241cf
   m_configObjects:
     com.unity.input.settings.actions: {fileID: -944628639613478452, guid: 2bcd2660ca9b64942af0de543d8d7100, type: 3}
   m_UseUCBPForAssetBundles: 0

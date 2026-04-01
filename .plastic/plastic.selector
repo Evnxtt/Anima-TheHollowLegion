@@ -1,0 +1,4 @@
+repository "Anima - The Hollow Legion 2026-03-27_23-24-29/Anima - The Hollow Legion@20066656051698@cloud"
+  path "/"
+    br "/main"
+    co "/main"
